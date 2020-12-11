@@ -1,0 +1,3 @@
+[submodule "ocra-pulseq"]
+	path = ocra-pulseq
+	url = https://github.com/lcbMGH/ocra-pulseq.git
