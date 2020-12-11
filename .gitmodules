@@ -1,3 +1,11 @@
 [submodule "ocra-pulseq"]
 	path = ocra-pulseq
 	url = https://github.com/lcbMGH/ocra-pulseq.git
+[submodule "marcos_extras"]
+	path = marcos_extras
+	url = https://github.com/vnegnev/marcos_extras.git
+	branch = devel
+[submodule "marcos_client"]
+	path = marcos_client
+	url = https://github.com/vnegnev/marcos_client.git
+	branch = devel
